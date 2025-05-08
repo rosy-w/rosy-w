@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rosy-w
-- 👀 I’m interested in Wordpress, Website development, ML and AI
+- 👀 I’m interested in Wordpress,Software Development, System Administration, Technical Support, Artificial Intelligence (AI) and Cybersecurity
 - 🌱 I’m currently learning Asana
 - 💞️ I’m looking to collaborate on Information and Communication Technologies for Development
 
